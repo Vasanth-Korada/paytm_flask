@@ -1,8 +1,8 @@
 Dependencies:
 
-#pip install flask
-#pip install requests
-#easy_install pycrypto
+<p>pip install flask</p>
+<p>pip install requests</p>
+<p>easy_install pycrypto</p>
 
-#To run:
-#FLASK_APP=app.py FLASK_ENV=development flask run
+<p>To run:<p>
+<p>FLASK_APP=app.py FLASK_ENV=development flask run</p>
